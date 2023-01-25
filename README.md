@@ -1,2 +1,4 @@
-# Ola-Mundo
- Primeiro Repositorio do Github
+# Olá, Mundo
+ Primeiro Repositório do Gi e Github
+
+Repositório do curso online
