@@ -1,4 +1,4 @@
 # Olá, Mundo
- Primeiro Repositório do Gi e Github
+ Primeiro Repositório do Git e Github
 
 Repositório do curso online
