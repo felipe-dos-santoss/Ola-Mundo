@@ -2,6 +2,6 @@ Algoritmo que leia um número e mostre seu antecessor e sucessor
 
 
 n1 = int(input('Digite um número: '))
-ant = n1 - 1
-suc = n1 + 1
+antecessor = n1 - 1
+sucessor = n1 + 1
 print(f'Analisando o número {n1}, seu antecessor é {ant} e o seu sucessor é {suc}))
